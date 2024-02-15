@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+h2{
+    color: #444444;
+    line-height: .2;
+    font-size: 50px;
+
+}
+
+p{
+    color: #8A929F;
+}
+
+input{
+    width: 300px;
+    height: 21px;
+}
+
+button{
+    background-color:#329EF8 ;
+    height: 29px;
+    width: 69px;
+    font-size: 17px;
+    text-decoration: none;
+    border: none;
+}

@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+
+body {
+    background-color: #7BCFFB;
+  font-family: sans-serif;
+  height: 100vh;
+  color: #fff;
+}
+
+.container {
+  width: 400px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  margin-bottom: 20px;
+}
+
+input,
+textarea {
+    font-family: sans-serif;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.input-group {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+button {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button {
+  background-color: black;
+}

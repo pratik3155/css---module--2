@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+*{
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+.main {
+    margin: 150px 400px;
+
+}
+h1{ 
+    color: rgb(79, 77, 77);;
+    font-size: 40px;
+    text-align: center;
+}
+
+.div2 {
+        height: 200px;
+        width: 180px;
+        float: left;
+        margin-right: 50px;
+}
+.img{
+    height: 50px;
+    width: 80px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+p{
+    text-align: center;
+}
+h3{ 
+     color: darkgray;
+    text-align: center;
+}
+.para-1{
+    font-family: sans-serif;
+    color: rgb(68, 68, 68);
+}

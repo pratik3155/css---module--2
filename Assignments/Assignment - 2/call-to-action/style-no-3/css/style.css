@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+h3{
+    font-size: 42px;
+    font-family: sans-serif;
+    color: #444444;
+}
+
+p{
+    color: #8C94A0;
+    font-family: sans-serif;
+
+}
+.btn{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #FE6656;
+    text-decoration: none;
+    border: none;
+    width: 109px;
+    height: 40px;
+}

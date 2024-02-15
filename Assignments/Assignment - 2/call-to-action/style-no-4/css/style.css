@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+p{
+    color: #8992A1;
+    width: 400px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #444444;
+}
+.button{
+    color: white; 
+    background-color: #FE6756;   
+    border: none;
+    width: 100px;
+    height: 30px;
+}

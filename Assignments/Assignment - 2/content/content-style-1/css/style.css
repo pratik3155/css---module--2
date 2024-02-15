@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.profile{
+    width: 700px;
+    height: 500px;
+}
+.first-block{
+    height:200px ;
+    width: 700px;
+}
+
+h2{
+    color: #444444;
+    font-size: 71px;
+    font-family: sans-serif;
+    line-height: .2;
+}
+p{
+    color: #8C94A1;
+    font-size: 23px;
+}
+
+button{
+    background-color: #FE6756;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    border: none;
+}
+
+span{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #6C757E;
+}

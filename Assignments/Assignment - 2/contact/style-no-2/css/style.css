@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body{
+    background-color: #F4F7FE;
+}
+
+a{
+    text-decoration: none;
+}
+h2{
+    color: #535353;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+p{
+    color: #99A1AF;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+label{
+    color: #5a5f68;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+input{
+        width: 400px;
+    height: 20px;
+}
+button{
+    background-color: #353A40;
+    color: white;
+    height: 32px;
+    width: 71px;
+}

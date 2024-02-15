@@ -1,0 +1,41 @@
+@charset "utf-8";
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  background-color: #353a40;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: 700px;
+  align-items: center;
+}
+h2 {
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+p {
+  color: rgb(109, 106, 106);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+span {
+  color: white;
+  font-family: sans-serif;
+}
+.para-1 {
+  width: 200px;
+}
+.new {
+  padding-left: 625px;
+  margin-top: -200px;
+}

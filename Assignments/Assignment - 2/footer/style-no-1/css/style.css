@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+* {
+    text-align: center;
+    padding: 5px;
+}
+
+th{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #494949;
+}
+
+td{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #494949; 
+   
+}
+
+tr {
+    width: 50px;
+    border: 1px solid black;
+    line-height: 20px;
+}
+
+.img {
+    height: 18px;
+    width: 18px;
+}

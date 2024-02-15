@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+h1{
+    margin-left: 580px;
+    font-size: 45px;
+    margin-top: 125px;
+    font-family: sans-serif;
+}
+
+.child-1{
+    margin-top: 20px;
+    float: right;
+    width: 300px;
+    margin-right: 400px;
+   
+}
+.child-2{
+    margin-top: 20px;
+    margin-left: 500px;
+    width: 300px;
+    display: inline-block;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}

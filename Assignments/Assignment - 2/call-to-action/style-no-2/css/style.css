@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+h2{ 
+    color:#444444;
+    font-size: 45px;
+    line-height: 0px;
+    font-family: sans-serif;
+}
+
+p{  
+    color:#8A93A2;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgb(8, 188, 248);
+}
+.img-1{
+    width: 650px;
+}
